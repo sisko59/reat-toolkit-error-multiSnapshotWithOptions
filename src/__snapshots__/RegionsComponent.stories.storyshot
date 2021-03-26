@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Admin/Pattern Catalog/Create Call One Time 1`] = `
+<div>
+  <label>
+    Data center/Entity
+  </label>
+  <div
+    className="row mb-4"
+  >
+    <div
+      className="col-md-8"
+    >
+      <div
+        aria-multiselectable="true"
+        className="af-accordion"
+        role="tablist"
+      >
+        <div
+          className="af-accordion af-accordion--open af-accordion--arrow-left"
+          title="datacenter"
+        >
+          <div
+            className="af-accordion__item-header af-accordion__item-header--arrow-left"
+            id="datacenter"
+            role="tab"
+          >
+            <h3
+              className="af-accordion__item-title"
+              role="intera"
+            >
+              <span
+                className="glyphicon glyphicon-menu-up"
+              />
+              <a
+                aria-controls="datacenterbody"
+                aria-expanded={true}
+                className="af-accordion__item-toggle"
+                data-toggle="collapse"
+                href="#datacenterbody"
+                onClick={[Function]}
+                onKeyDown={[Function]}
+              >
+                <div
+                  className="row"
+                >
+                  <div>
+                    AA
+                  </div>
+                </div>
+              </a>
+            </h3>
+          </div>
+          <div
+            aria-labelledby="datacenter"
+            className="af-accordion__collapse af-accordion__collapse--open af-accordion__collapse--arrow-left"
+            id="datacenterbody"
+            role="tabpanel"
+          >
+            <div
+              className="af-accordion__block"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-6"
+                >
+                  <button
+                    className="btn af-btn"
+                    id="selectAll"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="af-btn__text"
+                    >
+                      Select All
+                    </span>
+                  </button>
+                  <button
+                    className="btn af-btn"
+                    id="unselectAll"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="af-btn__text"
+                    >
+                      Unselect All
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Admin/Pattern Catalog/Create Call Second Time 1`] = `
+<div>
+  <label>
+    Data center/Entity
+  </label>
+  <div
+    className="row mb-4"
+  >
+    <div
+      className="col-md-8"
+    >
+      <div
+        aria-multiselectable="true"
+        className="af-accordion"
+        role="tablist"
+      >
+        <div
+          className="af-accordion af-accordion--open af-accordion--arrow-left"
+          title="datacenter"
+        >
+          <div
+            className="af-accordion__item-header af-accordion__item-header--arrow-left"
+            id="datacenter"
+            role="tab"
+          >
+            <h3
+              className="af-accordion__item-title"
+              role="intera"
+            >
+              <span
+                className="glyphicon glyphicon-menu-up"
+              />
+              <a
+                aria-controls="datacenterbody"
+                aria-expanded={true}
+                className="af-accordion__item-toggle"
+                data-toggle="collapse"
+                href="#datacenterbody"
+                onClick={[Function]}
+                onKeyDown={[Function]}
+              >
+                <div
+                  className="row"
+                >
+                  <div>
+                    AA
+                  </div>
+                </div>
+              </a>
+            </h3>
+          </div>
+          <div
+            aria-labelledby="datacenter"
+            className="af-accordion__collapse af-accordion__collapse--open af-accordion__collapse--arrow-left"
+            id="datacenterbody"
+            role="tabpanel"
+          >
+            <div
+              className="af-accordion__block"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-6"
+                >
+                  <button
+                    className="btn af-btn"
+                    id="selectAll"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="af-btn__text"
+                    >
+                      Select All
+                    </span>
+                  </button>
+                  <button
+                    className="btn af-btn"
+                    id="unselectAll"
+                    onClick={[Function]}
+                  >
+                    <span
+                      className="af-btn__text"
+                    >
+                      Unselect All
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
